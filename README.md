@@ -11,7 +11,7 @@
 ## 工作及教育经历
 
 - 软通动力&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020.03~至今&emsp;&emsp;&emsp;&emsp;&emsp; 网易互娱项目*杭州*实施三部
-- 浙江浙大网新图灵信息科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.04~2019.08&emsp;&emsp;&emsp;&emsp;信息技术部
+- 浙江浙大网新图灵信息科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.04~2019.08&emsp;&emsp;&emsp;&emsp;信息技术部
 - 杭州电子科技大学信息工程学院&emsp;&emsp;&emsp;&emsp;&emsp;2014.9~2018.6&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 
 ## 专业技能
